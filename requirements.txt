@@ -1,0 +1,18 @@
+# Core
+numpy
+pandas
+tqdm
+
+# Image processing
+opencv-python
+scikit-image
+Pillow
+
+# Machine Learning / Deep Learning
+scikit-learn
+torch
+torchvision
+torchaudio  # optional, but often bundled with torch
+
+# (Optional but recommended)
+matplotlib  # for visualizing images and segmentations
